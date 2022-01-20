@@ -28,6 +28,10 @@ $ https://github.com/MarcelFeo/cadastro-reactnative.git
 ```
 
 ```bash
+# Entre na pasta cadastrocod3r
+```
+
+```bash
 # Baixe as dependendências
 $ yarn
 ```
